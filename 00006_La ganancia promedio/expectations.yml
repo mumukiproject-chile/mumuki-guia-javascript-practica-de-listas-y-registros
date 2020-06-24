@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: gananciaPromedio
+  inspection: Uses:gananciaTotal
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: gananciaPromedio
+  inspection: Uses:longitud
