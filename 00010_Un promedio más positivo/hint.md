@@ -1,1 +1,1 @@
-Para poder tener la lista que recibe por parámetro `promedio` vas a tener que definir `gananciasDeBalancesPositivos`. Esta función primero _filtra_ los balances positivos y luego los _mapea_ a ganancias. Recordá que función hace cada una de estas cosas. :wink:
+Para poder tener la lista que recibe por parámetro `promedio` vas a tener que definir `gananciasDeBalancesPositivos`. Esta función primero _filtra_ los balances positivos y luego los _mapea_ a ganancias. Recuerda qué función hace cada una de estas cosas. :wink:

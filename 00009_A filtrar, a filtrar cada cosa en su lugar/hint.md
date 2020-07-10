@@ -1,1 +1,1 @@
-`balances` es una lista que contiene justamente eso, balances :stuck_out_tongue_winking_eye:. Pero no todos, tienen que cumplir una condición.
+`balances` es una lista que contiene justamente eso: balances :stuck_out_tongue_winking_eye:. Pero no todos tienen que cumplir una condición.

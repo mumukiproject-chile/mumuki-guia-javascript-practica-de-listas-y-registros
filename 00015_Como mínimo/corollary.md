@@ -1,1 +1,1 @@
-¡Muy bien! :clap: Solo queda un ejercicio por delante. :tada:
+¡Muy bien! :clap: Sólo queda un ejercicio por delante. :tada:

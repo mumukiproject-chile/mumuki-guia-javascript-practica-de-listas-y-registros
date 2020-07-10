@@ -1,4 +1,4 @@
-_Ahora que sabemos la función que necesitamos (`gananciaTotal`), razonemos cómo hacerla..._
+_Ahora que sabemos la función que necesitamos (`gananciaTotal`), pensemos cómo hacerla..._
 
 Vamos de a poquito :hand:: si la lista no tuviera elementos, ¿cuánto debería ser la sumatoria? ¡0!
 
@@ -9,7 +9,7 @@ function gananciaTotal0(balancesDeUnPeriodo) {
 }
 ```
 
-¿Y si tuviera exactamente 1 elemento? Sería... 0.... ¿más ese elemento? ¡Exacto! :sunglasses:
+¿Y si tuviera exactamente 1 elemento? Sería... 0... ¿más ese elemento? ¡Exacto! :sunglasses:
 
 ```javascript
 function gananciaTotal1(balancesDeUnPeriodo) {
@@ -42,4 +42,4 @@ function gananciaTotal3(balancesDeUnPeriodo) {
 }
 ```
 
-> ¿Empezás a ver un patrón? Tratá de escribir `gananciaTotal4` que funcione para 4 elementos.
+> ¿Empiezas a ver un patrón? Trata de escribir `gananciaTotal4` que funcione para 4 elementos.
