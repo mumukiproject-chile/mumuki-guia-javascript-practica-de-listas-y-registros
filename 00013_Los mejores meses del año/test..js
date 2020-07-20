@@ -70,7 +70,7 @@ describe('', function () {
             },
             {
                 mes: 'abril',
-                ganancia: 100.1
+                ganancia: 1001
             },
             {
                 mes: 'mayo',
@@ -91,7 +91,7 @@ describe('', function () {
             },
             {
                 mes: 'abril',
-                ganancia: 100.1
+                ganancia: 1001
             }
         ]);
     });
@@ -119,7 +119,7 @@ describe('', function () {
         assert.deepEqual(mesesAfortunados([
             {
                 mes: 'enero',
-                ganancia: 100.1
+                ganancia: 1001
             },
             {
                 mes: 'febrero',

@@ -3,34 +3,34 @@
 Para eso, vamos a hacer las siguientes funciones:
 
 * `meses`, que, dada una lista con registros, devuelve una lista de meses :calendar:;
-* `afortunados`, que filtra aquellos registros que tuvieron una ganancia mayor a $100.000 :dollar:;
+* `afortunados`, que filtra aquellos registros que tuvieron una ganancia mayor a $1000 :dollar:;
 * `mesesAfortunados` devuelve aquellos meses que fueron afortunados.
 
 ```javascript
 ム meses([
-    { mes: "enero", ganancia: 87.000 }, 
-    { mes: "febrero", ganancia: 100.000 }, 
-    { mes: "marzo", ganancia: 102.000 }, 
-    { mes: "abril", ganancia: 230.000 }, 
-    { mes: "mayo", ganancia: -1.000 }
+    { mes: "enero", ganancia: 870 }, 
+    { mes: "febrero", ganancia: 1000 }, 
+    { mes: "marzo", ganancia: 1020 }, 
+    { mes: "abril", ganancia: 2300 }, 
+    { mes: "mayo", ganancia: -10 }
   ])
 ["enero", "febrero", "marzo", "abril", "mayo"]
 
 ム afortunados([
-      { mes: "enero", ganancia: 87.000 }, 
-      { mes: "febrero", ganancia: 100.000 }, 
-      { mes: "marzo", ganancia: 102.000 }, 
-      { mes: "abril", ganancia: 230.000 }, 
+      { mes: "enero", ganancia: 870 }, 
+      { mes: "febrero", ganancia: 1000 }, 
+      { mes: "marzo", ganancia: 1020 }, 
+      { mes: "abril", ganancia: 2300 }, 
       { mes: "mayo", ganancia: -1.000 }
     ])
-[ { mes: "marzo", ganancia: 102.000 }, { mes: "abril", ganancia: 230.000 }]
+[ { mes: "marzo", ganancia: 1020 }, { mes: "abril", ganancia: 2300 }]
 
 ム mesesAfortunados([
-    { mes: "enero", ganancia: 87.000 }, 
-    { mes: "febrero", ganancia: 100.000 }, 
-    { mes: "marzo", ganancia: 102.000 }, 
-    { mes: "abril", ganancia: 230.000 }, 
-    { mes: "mayo", ganancia: -1.000 }
+    { mes: "enero", ganancia: 870 }, 
+    { mes: "febrero", ganancia: 1000 }, 
+    { mes: "marzo", ganancia: 1020 }, 
+    { mes: "abril", ganancia: 2300 }, 
+    { mes: "mayo", ganancia: -10 }
   ])
 ["marzo", "abril"]
 ```

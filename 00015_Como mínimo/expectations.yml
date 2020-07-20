@@ -1,5 +1,5 @@
 ---
 expectations:
-  - !ruby 
-    binding: minimaGananciaPositiva
-    inspection: Uses:minimo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: minimaGananciaPositiva
+  inspection: Uses:minimo
