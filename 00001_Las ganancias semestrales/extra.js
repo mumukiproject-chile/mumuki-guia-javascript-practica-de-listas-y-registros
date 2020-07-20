@@ -31,7 +31,7 @@ let balancesPrimerTrimestre = [
     },
     {
         mes: 'febrero',
-        ganancia: 45.3
+        ganancia: 4530
     },
     {
         mes: 'marzo',
