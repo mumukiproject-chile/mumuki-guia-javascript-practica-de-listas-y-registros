@@ -62,11 +62,11 @@ describe('', function () {
             },
             {
                 mes: 'febrero',
-                ganancia: 200
+                ganancia: 2000
             },
             {
                 mes: 'marzo',
-                ganancia: 250
+                ganancia: 2500
             },
             {
                 mes: 'abril',
@@ -83,11 +83,11 @@ describe('', function () {
         ]), [
             {
                 mes: 'febrero',
-                ganancia: 200
+                ganancia: 2000
             },
             {
                 mes: 'marzo',
-                ganancia: 250
+                ganancia: 2500
             },
             {
                 mes: 'abril',
@@ -127,7 +127,7 @@ describe('', function () {
             },
             {
                 mes: 'marzo',
-                ganancia: 230
+                ganancia: 2300
             },
             {
                 mes: 'abril',
