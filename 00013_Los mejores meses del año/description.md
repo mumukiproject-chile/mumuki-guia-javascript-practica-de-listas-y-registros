@@ -21,7 +21,7 @@ Para eso, vamos a hacer las siguientes funciones:
       { mes: "febrero", ganancia: 1000 }, 
       { mes: "marzo", ganancia: 1020 }, 
       { mes: "abril", ganancia: 2300 }, 
-      { mes: "mayo", ganancia: -1.000 }
+      { mes: "mayo", ganancia: -10 }
     ])
 [ { mes: "marzo", ganancia: 1020 }, { mes: "abril", ganancia: 2300 }]
 
