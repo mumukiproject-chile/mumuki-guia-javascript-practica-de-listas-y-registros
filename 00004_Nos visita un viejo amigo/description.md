@@ -14,7 +14,7 @@ Como ves, el `for...of` nos permite visitar y hacer algo con cada elemento de un
 
 > ¿Aún no te convenciste? Nuevamente, prueba las siguientes expresiones en la consola:
 > 
-> `javascript
+> ```javascript
   ム gananciaTotal([])
   ム gananciaTotal([
       { mes: "noviembre", ganancia: 5 }
@@ -34,6 +34,7 @@ Como ves, el `for...of` nos permite visitar y hacer algo con cada elemento de un
       { mes: "marzo", ganancia: -20 }, 
       { mes: "abril", ganancia: 0 }, 
       { mes: "mayo", ganancia: 10 }
-     ])`
+     ])
+```
 
 
